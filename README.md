@@ -35,7 +35,7 @@
 
 ۱. **قالب رو با دستور زیر دانلود کنید**
    ```sh
-   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/amirfs/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzban/templates/subscription/https://github.com/amirfs/Ourenus/releases/latest/download/index.html
    ```
 
 ۲. **دستورات زیر رو تو ترمینال سرورتون بزنید**
