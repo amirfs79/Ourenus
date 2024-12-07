@@ -1,11 +1,13 @@
 # قالب اخنصاصی مرزبان و مرزنشین اورانوس | Ourenus
 
 ## Desktop View
-![image](https://github.com/user-attachments/assets/c4c41db3-d83f-4f82-b050-550741a176ac)
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/49983ceb-fefd-4a35-a488-4202dc7bd353">
+
 
 
 ## Responsive Mobile View
-![image](https://github.com/user-attachments/assets/7d5f48cc-6bed-4040-a3a8-c291783e5ae0)
+![image](https://github.com/user-attachments/assets/9a0605e4-f339-4a79-86f5-5aadd4fee9d9)
+
 
 
 
@@ -106,11 +108,11 @@
 # Ourenus
 
 ## Desktop View
-![image](https://github.com/user-attachments/assets/c4c41db3-d83f-4f82-b050-550741a176ac)
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/49983ceb-fefd-4a35-a488-4202dc7bd353">
 
 
 ## Responsive Mobile View
-![image](https://github.com/user-attachments/assets/7d5f48cc-6bed-4040-a3a8-c291783e5ae0)
+![image](https://github.com/user-attachments/assets/9a0605e4-f339-4a79-86f5-5aadd4fee9d9)
 
 
 ---

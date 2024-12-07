@@ -68,7 +68,7 @@ function App() {
 
 
   const getAdjustedUrl = (subURL) => {
-    if (import.meta.env.VITE_IS_HOST) {
+    if (import.meta.env.VITE_PANEL_DOMAIN) {
       return subURL.replace(
         /https?:\/\/[^/]+/,
         import.meta.env.VITE_PANEL_DOMAIN
