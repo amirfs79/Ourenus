@@ -69,7 +69,7 @@ const getAccordionStyles = (theme) => ({
   marginBottom: ".8rem",
   background:
     theme === "light" ? "rgba(255, 255, 255, 0.1)" : "rgba(0, 0, 0, 0.1)",
-  color: theme.colors.BWColorRevert[theme.palette.mode],
+  color: theme.colors.BWColorRevert.light,
   "&.Mui-expanded": {
     background:
       theme === "light" ? "rgba(255, 255, 255, 0.1)" : "rgba(0, 0, 0, 0.3)",
@@ -224,7 +224,7 @@ const renderAppAccordion = (
       <AccordionDetails>
         <Grid container direction="column" gap={".7rem"} alignItems={"center"}>
           <Typography sx={{ paddingBottom: "1rem" }}>
-            {lang === "en" ? app.description : app.faDescription}
+            {lang === "fa" ? app.faDescription : app.description}
           </Typography>
           {app.downloadLink &&
             renderButtonGrid(
@@ -343,7 +343,7 @@ const Apps = ({ subLink }) => {
                   expandIcon={
                     <ArrowDropDownIcon
                       sx={{
-                        color: theme.colors.BWColorRevert[theme.palette.mode],
+                        color: theme.colors.BWColorRevert.light,
                       }}
                     />
                   }
@@ -356,7 +356,7 @@ const Apps = ({ subLink }) => {
                     </Grid>
                     <Grid item xs={10} display="flex" justifyContent="center">
                       <Typography>
-                        {lang === "en" ? os.engName : os.name}
+                        {lang === "fa" ? os.name : os.engName}
                       </Typography>
                     </Grid>
                   </Grid>
